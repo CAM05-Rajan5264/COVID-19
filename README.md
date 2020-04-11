@@ -1,4 +1,4 @@
-# Novel Coronavirus COVID-19 Data Repository by Rajan Singh (RDPV) 
+# COVID-19 Data Repository by Rajan Singh (RDPV) 
 
 
 Data repository for 2019 Novel Coronavirus Visual Dashboard developed by Rajan Singh during lockdown 2020.
