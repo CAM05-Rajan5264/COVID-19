@@ -12,9 +12,9 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 <br><br>
 <b>Lancet Article:</b><br>
-[An interactive web-based dashboard to track COVID-19 in real time](https://doi.org/10.1016/S1473-3099(20)30120-1)
+[An interactive web-based dashboard to track COVID-19 in real time by Rajan Singh](https://doi.org/10.1016/S1473-3099(20)30120-1)
 <br><br>
-<b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b><br>
+<b>Provided by  Rajan Singh:</b><br>
 https://systems.jhu.edu/
 <br><br>
 <b>Data Sources:</b><br>
@@ -42,7 +42,7 @@ https://systems.jhu.edu/research/public-health/ncov/
 <br><br>
 
 <b>Contact Us: </b><br>
-* Email: jhusystems@gmail.com
+* Email: rajansingh5264@gmail.com
 <br><br>
 
 <b>Terms of Use:</b><br>
